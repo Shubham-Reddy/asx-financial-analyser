@@ -2,7 +2,7 @@
 
 An AI-powered financial analysis platform that automatically extracts insights from ASX company annual reports using Large Language Models.
 
-🔗 **Live Demo:** [Coming Soon]
+🔗 **Live Demo:** https://asx-financial-analyser.streamlit.app/
 
 ---
 
@@ -87,16 +87,10 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-*Coming soon*
-
----
-
 ## 👨‍💻 Built By
 
 **Shubham Reddy**
-Master of Data Science — RMIT University Melbourne
+Master of Data Science - RMIT University Melbourne
 
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-reddy)
 🌐 [Portfolio](https://aus-job-market.streamlit.app)
