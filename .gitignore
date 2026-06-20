@@ -5,3 +5,4 @@ __pycache__/
 *.pdf
 tempCodeRunnerFile.py
 .DS_Store
+.streamlit/secrets.toml
