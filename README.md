@@ -28,7 +28,7 @@ Upload any ASX company annual report PDF and instantly get:
 |---|---|
 | Python | Core programming language |
 | Streamlit | Web application framework |
-| Groq LLaMA 3.3 70B | Large Language Model for analysis |
+| Groq (GPT-OSS 120B) | Large Language Model for analysis |
 | pdfplumber | PDF text extraction |
 | Plotly | Interactive data visualisation |
 | python-dotenv | Environment variable management |
@@ -93,7 +93,7 @@ streamlit run app.py
 Master of Data Science - RMIT University Melbourne
 
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-reddy)
-🌐 [Portfolio](https://aus-job-market.streamlit.app)
+🌐 [Portfolio](https://shubham-reddy.github.io/)
 📧 shubhamreddy951@gmail.com
 
 ---
