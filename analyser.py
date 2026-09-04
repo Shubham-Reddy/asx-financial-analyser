@@ -12,7 +12,7 @@ def get_client():
 def analyse_report(text):
     client = get_client()
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-120b",
         max_tokens=2000,
         messages=[
             {
